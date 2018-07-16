@@ -13,7 +13,7 @@ public class Greeter {
   }
 
   //TODO: Add javadoc comment
-  public final String greet(String final someone) {
+  public String final greet(String final someone) {
     return String.format("Hello, %s!", someone);
   }
 }
